@@ -1,19 +1,15 @@
 # test-game
 クレジットリスト
 
-BGM
-
+・BGM
 魔王魂 様
-Napi 様 (M-ART)
 DOVA-SYNDROME 様
 Murray Atkinson 様
 
-Graphics
- 
+・Graphics
 Lunarea 様
 
-スクリプト
-
+・Script
 Yanfly 様
 tomoaky 様
 愛音（あいん）様
