@@ -6366,7 +6366,7 @@ Game_CharacterBase.prototype.realMoveSpeed = function() {
 };
 
 Game_CharacterBase.prototype.distancePerFrame = function() {
-    return Math.pow(2, this.realMoveSpeed()) / 256;
+    return Math.pow(2, this.realMoveSpeed()) / 300;
 };
 
 Game_CharacterBase.prototype.isDashing = function() {
